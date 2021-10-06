@@ -1,0 +1,52 @@
+.post {
+  min-height: 12vh;
+  background: #ffff; 
+  border: 1px ridge  #b3aeae;
+  box-shadow: -2px 7px 5px  #b3aeae;
+
+}
+.post:hover { 
+  background: rgb(248, 241, 241); 
+
+}
+
+.likes {
+  padding-bottom: 12px;
+  margin-top: auto;  
+}
+
+.icon {
+  border-radius: 50%;
+  max-width: 100px;
+}
+
+.criarPost {
+  margin-left: auto ;
+}
+
+.inputSearch{
+  margin-left: auto;
+}
+.form-control {
+  width:400px;
+  margin-left: auto;
+  height: 50px;
+}
+
+
+.t-container {
+  word-wrap: break-word;
+  margin: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  color: #ffff;
+}
+
+header {
+  padding-top: 5vh;
+  margin-bottom:50px; 
+  
+}

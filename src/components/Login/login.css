@@ -1,0 +1,37 @@
+.login {
+  color: #ffff;
+}
+.loginInput {
+  margin-top: 20vh;
+  left: 0;
+  right: 0;
+}
+
+.nova-conta > p {
+  color: rgb(243, 243, 243);
+  text-shadow: 1px 1px rgb(70, 4, 4);
+}
+
+.nova-conta > p:hover {
+  cursor: pointer;
+}
+
+.field {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  padding: 12px;
+}
+
+.b-entrar {
+  background-color: #e3a602;
+  color: #ffff;
+  width: 300px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.b-entrar:hover {
+  color: #ffff;
+}

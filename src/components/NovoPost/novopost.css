@@ -1,0 +1,13 @@
+.postArea {
+
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    height: 70px;
+}
+
+.btn-post {
+    margin-top: 20px;
+   width: 150px ;
+}
